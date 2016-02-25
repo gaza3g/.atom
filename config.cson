@@ -1,0 +1,10 @@
+"*":
+  core: {}
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "be8f0e38-a07d-279f-ac79-3ce4b16b8eba"
+  "rst-preview-pandoc":
+    pandocOpts: "-frst -thtml --webtex"
+  welcome:
+    showOnStartup: false
